@@ -10,4 +10,9 @@ The main goal of this project is to introduce the GAN models and to play with so
 
 The folder bground has a random image to set as background. The file bg.py has the function used to set the background. One can select whatever image it likes
 
+## Here it is:
+
+![Captura de pantalla 2023-10-05 082607](https://github.com/jmarquez211/converting-images/assets/108117107/711e8da6-33d7-4257-aa68-c63a0ad61062)
+
+
 
