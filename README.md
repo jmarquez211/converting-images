@@ -6,3 +6,6 @@ The project is made with two GAN models, one for the horse to zebra and the othe
 
 Of course, the user can select any image that can have already downloaded ready to use. 
 The main goal of this project is to introduce the GAN models and to play with some images
+
+
+The folder bground has a random image to set as background. The file bg.py has the function used to set the background. One can select whatever image it likes
